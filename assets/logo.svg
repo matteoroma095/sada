@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" fill="none" aria-hidden="true">
+  <!-- Three buildings + horizon arc — stroke-draw friendly -->
+  <g class="logo-buildings" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Left building (gold) -->
+    <path class="logo-stroke logo-stroke--gold" d="M18 72 V38 L32 28 V72" stroke="#C4A574" stroke-width="1.6"/>
+    <path class="logo-stroke logo-stroke--gold" d="M22 72 V48 M26 72 V42 M30 72 V50" stroke="#C4A574" stroke-width="1"/>
+    <!-- Center tall (gold) -->
+    <path class="logo-stroke logo-stroke--gold" d="M38 72 V22 L58 12 V72" stroke="#C4A574" stroke-width="1.6"/>
+    <path class="logo-stroke logo-stroke--gold" d="M42 72 V32 M46 72 V28 M50 72 V34 M54 72 V30" stroke="#C4A574" stroke-width="1"/>
+    <!-- Right building (navy) -->
+    <path class="logo-stroke logo-stroke--navy" d="M64 72 V40 L82 30 V72" stroke="#0B1C2E" stroke-width="1.6"/>
+    <path class="logo-stroke logo-stroke--navy" d="M68 72 V48 M72 72 V44 M76 72 V50 M80 72 V46" stroke="#0B1C2E" stroke-width="1"/>
+    <!-- Horizon arc -->
+    <path class="logo-stroke logo-stroke--arc" d="M10 76 Q50 88 110 76" stroke="#0B1C2E" stroke-width="1.4"/>
+  </g>
+</svg>
