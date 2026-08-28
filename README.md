@@ -2,6 +2,8 @@
 
 Sito multipagina per **SADA Immobiliare** (Milano) — Real Estate · Development · Auctions.
 
+**Live:** https://matteoroma095.github.io/sada/
+
 ## Pagine
 
 - `index.html` — Home
@@ -17,9 +19,3 @@ python3 -m http.server 4173
 ```
 
 Apri `http://localhost:4173`.
-
-## GitHub Pages
-
-Dopo aver attivato Pages (Settings → Pages → Branch `main` / root), il sito sarà su:
-
-`https://matteoroma095.github.io/sada/`
