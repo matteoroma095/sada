@@ -1,1 +1,644 @@
-PLACEHOLDER_LOAD_FROM_FILE
+SADA Immobiliare — Revisione testi sito web
+
+Documento per revisionare e modificare i contenuti, pagina per pagina.
+
+- Sito live: https://matteoroma095.github.io/sada/
+- Repo: https://github.com/matteoroma095/sada
+
+> Modifica liberamente i testi qui sotto. Per ogni blocco è indicato dove appare sul sito.
+> Quando hai finito, salva questo file e inviaci le modifiche (o rispondi in chat con il testo aggiornato).
+
+---
+
+#Elementi comuni (tutte le pagine)
+
+##Brand / logo testuale
+
+SADA
+Immobiliare
+
+
+##Menu di navigazione
+
+Home
+Chi siamo
+Servizi
+Aste
+Contatti
+
+
+##Footer — descrizione
+
+Real estate, development e aste giudiziarie. Milano.
+
+
+##Footer — colonne
+
+Esplora: Chi siamo · Servizi · Aste giudiziarie · Contatti
+Partner: Universo Aste (https://www.universoaste.it)
+
+
+##Footer — riga inferiore
+
+© [anno] SADA Immobiliare. Bozza sito.
+Real Estate · Development · Auctions
+
+
+---
+
+#1. HOME (`index.html`)
+
+URL: `/` · https://matteoroma095.github.io/sada/
+
+##Hero
+
+Eyebrow
+
+Milano
+
+
+Titolo brand
+
+SADA
+Immobiliare
+
+
+Tagline
+
+Real Estate · Development · Auctions
+
+
+Testo hero
+
+Consulenza immobiliare e costruzione a Milano. Accompagniamo ogni cliente dall’individuazione dell’immobile all’aggiudicazione — anche nelle aste giudiziarie.
+
+
+Pulsanti CTA
+
+I nostri servizi
+Aste giudiziarie
+
+
+Alt immagine hero
+
+Architettura residenziale contemporanea, luce naturale e linee pulite
+
+
+##Sezione Approccio / Servizi in elenco
+
+Eyebrow
+
+Approccio
+
+
+Titolo
+
+Eleganza operativa.
+Risultati concreti.
+
+
+01 — Titolo
+
+Real Estate
+
+
+01 — Descrizione
+
+Vendita e intermediazione di immobili selezionati, con ricerca mirata sul territorio del cliente.
+
+
+01 — Link
+
+Scopri
+
+
+02 — Titolo
+
+Development
+
+
+02 — Descrizione
+
+Progetti di costruzione e valorizzazione, dalla visione iniziale alla consegna.
+
+
+02 — Link
+
+Scopri
+
+
+03 — Titolo
+
+Auctions
+
+
+03 — Descrizione
+
+Preparazione alle aste giudiziarie e accompagnamento fino all’assegnazione finale.
+
+
+03 — Link
+
+Scopri
+
+
+##Sezione Chi siamo (anteprima)
+
+Eyebrow
+
+Chi siamo
+
+
+Titolo
+
+Una realtà milanese di real estate e costruzione.
+
+
+Testo
+
+SADA Immobiliare unisce esperienza sul mercato e metodo: individuazione dell’immobile, preparazione della procedura e consulenza fino all’assegnazione.
+
+
+Pulsante
+
+La nostra storia
+
+
+Alt immagine
+
+Interno contemporaneo con luce laterale e materiali naturali
+
+
+##Sezione Partnership
+
+Eyebrow
+
+Partnership
+
+
+Titolo
+
+Aste giudiziarie con Universo Aste
+
+
+Testo
+
+Accordo strategico con Universo Aste per partecipare alle aste giudiziarie con supporto professionale: ricerca, preparazione alla gara e accompagnamento fino all’assegnazione.
+
+
+Pulsante
+
+Come funziona
+
+
+Meta partner
+
+Partner
+www.universoaste.it
+
+
+##Sezione CTA finale
+
+Eyebrow
+
+Prossimo passo
+
+
+Titolo
+
+Parliamo del tuo obiettivo.
+
+
+Testo
+
+Che tu stia cercando un immobile, un progetto di sviluppo o un’opportunità in asta, il team SADA è a Milano per guidarti.
+
+
+Pulsante
+
+Contattaci
+
+
+Nota bozza (visibile in pagina)
+
+Bozza multipagina — i contenuti verranno arricchiti progressivamente (portfolio, schede immobile, team, news).
+
+
+Title SEO
+
+SADA Immobiliare — Milano | Real Estate · Development · Auctions
+
+
+Meta description SEO
+
+SADA Immobiliare: real estate, sviluppo e aste giudiziarie a Milano. Partner ufficiale Universo Aste.
+
+
+---
+
+#2. CHI SIAMO (`chi-siamo.html`)
+
+URL: `/chi-siamo.html`
+
+##Hero pagina
+
+Eyebrow
+
+Chi siamo
+
+
+Titolo H1
+
+Una firma milanese per il real estate e la costruzione.
+
+
+Sottotitolo / lede
+
+SADA Immobiliare nasce per accompagnare clienti privati e investitori con chiarezza, discrezione e competenza — dal mercato tradizionale alle aste giudiziarie.
+
+
+##Corpo
+
+Paragrafo 1
+
+Operiamo a Milano come realtà di real estate e costruzione. Il nostro lavoro unisce ricerca territoriale, preparazione tecnica e consulenza continua fino all’assegnazione dell’immobile.
+
+
+Paragrafo 2
+
+Crediamo in un’esperienza moderna e lussuosa senza eccesso: linee pulite, comunicazione chiara, processo guidato. Ogni mandato è seguito con lo stesso standard di eleganza che caratterizza il marchio SADA.
+
+
+Sottotitolo H2
+
+Il metodo
+
+
+Paragrafo metodo
+
+Individuiamo opportunità coerenti con le esigenze del cliente, prepariamo la documentazione e le gare, e restiamo al fianco fino alla chiusura — inclusa la partecipazione alle aste giudiziarie grazie alla partnership con Universo Aste.
+
+
+##Statistiche / highlight
+
+
+Milano — Sede operativa
+3 — Aree di specialità
+1:1 — Consulenza dedicata
+
+
+Nota bozza
+
+Sezione in bozza: qui potremo aggiungere team, timeline, certificazioni e progetti selezionati.
+
+
+Alt immagine
+
+Skyline urbano contemporaneo
+
+
+Title SEO
+
+Chi siamo — SADA Immobiliare
+
+
+Meta description SEO
+
+SADA Immobiliare: azienda di real estate e costruzione a Milano. Metodo, eleganza e risultati.
+
+
+---
+
+#3. SERVIZI (`servizi.html`)
+
+URL: `/servizi.html`
+
+##Hero pagina
+
+Eyebrow
+
+Servizi
+
+
+Titolo H1
+
+Tre pilastri. Un unico standard.
+
+
+Sottotitolo / lede
+
+Real Estate, Development e Auctions: un’offerta integrata per chi cerca opportunità chiare e un percorso assistito fino all’assegnazione.
+
+
+##01 — Real Estate
+
+Eyebrow
+
+01 — Real Estate
+
+
+Titolo
+
+Vendita e ricerca sul territorio
+
+
+Testo
+
+Individuiamo immobili nella regione di interesse del cliente, valutiando qualità, potenziale e coerenza con obiettivi abitativi o di investimento.
+
+
+Alt immagine
+
+Residenza contemporanea con facciata lineare
+
+
+##02 — Development
+
+Eyebrow
+
+02 — Development
+
+
+Titolo
+
+Costruzione e valorizzazione
+
+
+Testo
+
+Affianchiamo progetti di sviluppo e costruzione con visione di lungo periodo: dal concept alla realizzazione, con attenzione a materiali, luce e contesto.
+
+
+Alt immagine
+
+Cantiere e sviluppo architettonico
+
+
+##03 — Auctions
+
+Eyebrow
+
+03 — Auctions
+
+
+Titolo
+
+Aste giudiziarie assistite
+
+
+Testo
+
+Preparazione alla gara, analisi dell’opportunità e accompagnamento fino all’assegnazione finale — in collaborazione con Universo Aste.
+
+
+Pulsante
+
+Dettaglio aste
+
+
+Alt immagine
+
+Chiavi di un immobile su piano architettonico
+
+
+Nota bozza
+
+Bozza: potremo aggiungere listini, casi studio e FAQ per ciascun servizio.
+
+
+Title SEO
+
+Servizi — SADA Immobiliare
+
+
+Meta description SEO
+
+Servizi SADA: real estate, development e supporto alle aste giudiziarie a Milano.
+
+
+---
+
+#4. ASTE GIUDIZIARIE (`aste.html`)
+
+URL: `/aste.html`
+
+##Hero pagina
+
+Eyebrow
+
+Aste giudiziarie
+
+
+Titolo H1
+
+Opportunità in asta, con metodo.
+
+
+Sottotitolo / lede
+
+Grazie all’accordo con Universo Aste, SADA Immobiliare guida i clienti nella partecipazione alle aste giudiziarie — dalla ricerca all’assegnazione.
+
+
+##Blocco partner
+
+Eyebrow
+
+Partner ufficiale
+
+
+Titolo
+
+Universo Aste
+
+
+Testo
+
+Piattaforma di riferimento per le aste giudiziarie. Insieme offriamo un percorso chiaro: individuazione dell’immobile, preparazione della gara e consulenza fino all’assegnazione finale.
+
+
+Pulsante
+
+Visita universoaste.it
+
+
+Meta
+
+Collaborazione
+www.universoaste.it
+
+
+##Il percorso
+
+Eyebrow
+
+Il percorso
+
+
+Titolo sezione
+
+Dal mandato all’assegnazione
+
+
+01 — Titolo
+
+Individuazione
+
+
+01 — Descrizione
+
+Cerchiamo immobili in asta nella regione di interesse, filtrando per tipologia, valore e condizioni.
+
+
+02 — Titolo
+
+Preparazione
+
+
+02 — Descrizione
+
+Analizziamo perizia, documentazione e strategia di gara, così da presentare un’offerta consapevole.
+
+
+03 — Titolo
+
+Consulenza fino all’assegnazione
+
+
+03 — Descrizione
+
+Restiamo al tuo fianco in ogni fase della procedura, fino all’eventuale aggiudicazione e chiusura.
+
+
+Pulsanti
+
+Richiedi una consulenza
+Tutti i servizi
+
+
+Nota bozza
+
+Bozza: qui potremo collegare feed opportunità, guide scaricabili e form di pre-qualifica.
+
+
+Title SEO
+
+Aste giudiziarie — SADA Immobiliare
+
+
+Meta description SEO
+
+SADA Immobiliare e Universo Aste: supporto completo alle aste giudiziarie a Milano.
+
+
+---
+
+#5. CONTATTI (`contatti.html`)
+
+URL: `/contatti.html`
+
+##Hero pagina
+
+Eyebrow
+
+Contatti
+
+
+Titolo H1
+
+Parliamo del tuo prossimo passo.
+
+
+Sottotitolo / lede
+
+Scrivici per una prima consulenza su vendita, sviluppo o aste giudiziarie. Siamo a Milano.
+
+
+##Dati di contatto
+
+Sede
+
+Sede
+Milano, Italia
+(indirizzo completo da inserire)
+
+
+Email
+
+Email
+info@sadaimmobiliare.it
+
+
+Telefono
+
+Telefono
+Numero da inserire
+
+
+Partner aste
+
+Partner aste
+www.universoaste.it
+
+
+##Form contatti — etichette campi
+
+
+Nome e cognome
+Email
+Interesse
+
+
+Opzioni Interesse
+
+Real Estate
+Development
+Aste giudiziarie
+Altro
+
+
+
+Messaggio
+Invia richiesta
+
+
+Messaggio dopo invio (JS)
+
+Grazie per il messaggio. Ti risponderemo al più presto.
+
+
+Title SEO
+
+Contatti — SADA Immobiliare
+
+
+Meta description SEO
+
+Contatta SADA Immobiliare a Milano per real estate, development e aste giudiziarie.
+
+
+---
+
+#6. Placeholder da completare (checklist)
+
+Segna i dati reali da sostituire sul sito:
+
+1. Indirizzo completo sede (Milano)  
+   Nuovo testo: _______________________________________________
+
+2. Numero di telefono  
+   Nuovo testo: _______________________________________________
+
+3. Email ufficiale (oggi: info@sadaimmobiliare.it — confermare)  
+   Nuovo testo: _______________________________________________
+
+4. Rimuovere o tenere la dicitura “Bozza sito” nel footer  
+   Decisione: _______________________________________________
+
+5. Rimuovere note “Bozza multipagina / sezione in bozza” dalle pagine  
+   Decisione: _______________________________________________
+
+6. Testi team / progetti / portfolio (se previsti)  
+   Note: _______________________________________________
+
+7. Foto proprie al posto delle immagini Unsplash  
+   Note: _______________________________________________
